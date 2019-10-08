@@ -1,0 +1,6 @@
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\bin\Release\CsvToXlsxNetFramework.exe.config
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\bin\Release\CsvToXlsxNetFramework.exe
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\bin\Release\CsvToXlsxNetFramework.pdb
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\obj\Release\CsvToXlsxNetFramework.exe
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\obj\Release\CsvToXlsxNetFramework.pdb
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\obj\Release\CsvToXlsxNetFramework.csprojAssemblyReference.cache

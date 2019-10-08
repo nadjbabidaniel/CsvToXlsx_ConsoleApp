@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToXlsxNetFramework", "CsvToXlsxNetFramework\CsvToXlsxNetFramework.csproj", "{A00FF73C-2712-49E6-9825-99AB1D5F9505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00FF73C-2712-49E6-9825-99AB1D5F9505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00FF73C-2712-49E6-9825-99AB1D5F9505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00FF73C-2712-49E6-9825-99AB1D5F9505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00FF73C-2712-49E6-9825-99AB1D5F9505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {949A2FF8-F16C-4A95-ABB9-3FEC3238FC4C}
+	EndGlobalSection
+EndGlobal

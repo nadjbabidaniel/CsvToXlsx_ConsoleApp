@@ -1,0 +1,5 @@
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\bin\Debug\CsvToXlsxNetFramework.exe
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\bin\Debug\CsvToXlsxNetFramework.pdb
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\bin\Debug\CsvToXlsxNetFramework.exe.config
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\obj\Debug\CsvToXlsxNetFramework.exe
+C:\Users\Operations Intern 5\Desktop\csvToXlsx\CsvToXlsx\CsvToXlsxNetFramework\obj\Debug\CsvToXlsxNetFramework.pdb
